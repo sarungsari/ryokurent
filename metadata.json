@@ -1,0 +1,6 @@
+{
+  "name": "Belantara Moto - Rental Sepeda Motor Jogja & Merapi",
+  "description": "Platform rental sepeda motor terpercaya dengan sistem reservasi online instan, galeri armada terlengkap, kalkulator tarif transparan, asisten rute petualangan AI, dan integrasi WhatsApp langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
