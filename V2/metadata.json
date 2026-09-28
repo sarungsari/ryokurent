@@ -1,0 +1,6 @@
+{
+  "name": "RyokouRent - Rental Sepeda Motor Malang & Kota Wisata Batu",
+  "description": "Platform rental sepeda motor modern di Kota Malang, Kota Wisata Batu, dan Bromo. Dilengkapi sistem reservasi online instan, galeri armada prima, komparasi motor, dan asisten rute AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
